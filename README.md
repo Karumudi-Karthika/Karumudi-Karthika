@@ -2,7 +2,7 @@
 
 Full-Stack Software Engineer based in Melbourne, Australia — with 3 years of enterprise experience building large-scale distributed platforms at Fiserv.
 
-I specialise in **React**, **TypeScript**, **C# / .NET Core**, and **REST APIs**, with a strong interest in healthcare technology and AI-assisted development.
+I specialise in **React**, **Angular / TypeScript**, **C# / .NET Core**, and **REST APIs**, with a strong interest in healthcare technology and AI-assisted development.
 
 ---
 
